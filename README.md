@@ -7,8 +7,8 @@
 ## Objective
 In this repository, I'm charting my progress as I learn Tableau for data analysis. Starting from the basics and advancing to complex data visualization and analysis techniques, my end goal is to prepare for the [Tableau Data Analyst Certification](https://www.tableau.com/learn/certification/certified-data-analyst) while enhancing my skills in data handling, advanced calculation methods and statistical techniques.
 
-## Latest vizzes
-* [mikjf public profile](https://public.tableau.com/app/profile/mikjf/vizzes)
+## Latest visualizations via Tableau Public
+* [mikjf](https://public.tableau.com/app/profile/mikjf/vizzes)
 
 ## Case studies
 * Telecom customer churn analysis (WIP)
