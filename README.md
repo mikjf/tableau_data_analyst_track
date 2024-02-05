@@ -11,7 +11,8 @@ In this repository, I'm charting my progress as I learn Tableau for data analysi
 * [mikjf profile](https://public.tableau.com/app/profile/mikjf/vizzes)
 
 ## Case studies
-* Telecom customer churn analysis
+* [Telecom customer churn analysis](https://public.tableau.com/app/profile/mikjf/viz/21_telecom_customer_churn_analysis/Churnanalysis)
+* [Telecom customer churn analysis twbx](21_telecom_customer_churn_analysis.twbx)
 
 ### Topics covered so far
 * Getting started
