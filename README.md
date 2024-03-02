@@ -9,6 +9,7 @@ In this repository, I'm charting my progress as I learn Tableau for data analysi
 
 ## Best way to check out latest visualizations
 * [mikjf profile via Tableau Public](https://public.tableau.com/app/profile/mikjf/vizzes)
+* X
 
 ## Case studies
 * [Telecom customer churn analysis](https://public.tableau.com/app/profile/mikjf/viz/21_telecom_customer_churn_analysis/Churnanalysis)
