@@ -34,3 +34,8 @@ In this repository, I'm charting my progress as I learn Tableau for data analysi
   * Creating and formatting story points
   * Mobile layout customization
   * Navigation implementation
+
+* Dashboarding best practices
+  * Analysis process definition
+  * Leveraging parameters
+  * From dashboards to cohesive stories
