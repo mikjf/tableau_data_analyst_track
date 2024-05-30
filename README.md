@@ -39,3 +39,9 @@ In this repository, I'm charting my progress as I learn Tableau for data analysi
   * Analysis process definition
   * Leveraging parameters
   * From dashboards to cohesive stories
+
+* Connecting data
+  * Combining and saving data
+  * Relationships and extracts
+  * Data management
+  * Aggregations, hierarchies and filters
