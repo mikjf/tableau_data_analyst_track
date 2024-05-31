@@ -12,6 +12,7 @@ In this repository, I'm charting my progress as I learn Tableau for data analysi
 
 ## Case studies
 * [Telecom customer churn analysis](https://public.tableau.com/app/profile/mikjf/viz/21_telecom_customer_churn_analysis/Churnanalysis)
+* WIP
 
 ### Topics covered so far
 * Getting started
@@ -45,3 +46,12 @@ In this repository, I'm charting my progress as I learn Tableau for data analysi
   * Relationships and extracts
   * Data management
   * Aggregations, hierarchies and filters
+
+* Data visualization
+  * WIP
+
+* Calculations
+  * WIP
+
+* Statistical techniques
+  * WIP
