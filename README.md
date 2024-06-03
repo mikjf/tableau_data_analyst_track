@@ -48,7 +48,10 @@ In this repository, I'm charting my progress as I learn Tableau for data analysi
   * Aggregations, hierarchies and filters
 
 * Data visualization
-  * WIP
+  * Treemaps, heat maps and waterfall charts
+  * Interactive web dashboards
+  * Maps and spacial visualizations
+  * Actions
 
 * Calculations
   * WIP
