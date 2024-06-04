@@ -54,7 +54,9 @@ In this repository, I'm charting my progress as I learn Tableau for data analysi
   * Actions
 
 * Calculations
-  * WIP
+  * LODs
+  * Nested table calculations
+  * Time series analysis
 
 * Statistical techniques
   * WIP
