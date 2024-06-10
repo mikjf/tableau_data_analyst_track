@@ -59,4 +59,4 @@ In this repository, I'm charting my progress as I learn Tableau for data analysi
   * Time series analysis
 
 * Statistical techniques
-  * WIP
+  * 
