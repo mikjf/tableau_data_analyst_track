@@ -12,7 +12,7 @@ In this repository, I'm charting my progress as I learn Tableau for data analysi
 
 ## Case studies
 * [Telecom customer churn analysis](https://public.tableau.com/app/profile/mikjf/viz/21_telecom_customer_churn_analysis/Churnanalysis)
-* Job market data analysis
+* [Tableau in-demand job market analysis](https://public.tableau.com/app/profile/mikjf/viz/46_tableau_focused_job_market/JobAnalytics)
 
 ### Topics covered so far
 * Getting started
