@@ -62,4 +62,3 @@ In this repository, I'm charting my progress as I learn Tableau for data analysi
   * Univariate EDA
   * Measures of spread and confidence intervals
   * Bivariate EDA
-  * Forecasting and clustering
