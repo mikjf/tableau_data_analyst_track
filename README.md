@@ -5,7 +5,7 @@
 #### -- Project Status: [Completed]
 
 ## Objective
-In this repository, I'm charting my progress as I learn Tableau for data analysis. Starting from the basics and advancing to complex data visualization and analysis methods, my end goal is to prepare for the [Tableau Data Analyst Certification](https://www.tableau.com/learn/certification/certified-data-analyst) while enhancing my skills in data handling, advanced calculation methods and statistical methods.
+In this repository, I document my journey of learning Tableau for data analysis, starting with the basics and advancing to more complex visualizations and analysis techniques. Now working as a data analyst, I apply these skills in a professional setting while preparing to enroll in the [Tableau Data Analyst Certification](https://www.tableau.com/learn/certification/certified-data-analyst) to further enhance my expertise in data handling, advanced calculations, and statistical methods.
 
 ### Best way to check out latest visualizations
 * [mikjf profile via Tableau Public](https://public.tableau.com/app/profile/mikjf/vizzes)
